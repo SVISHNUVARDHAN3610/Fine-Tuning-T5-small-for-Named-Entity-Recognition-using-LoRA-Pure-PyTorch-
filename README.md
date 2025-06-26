@@ -76,7 +76,7 @@ train_model()
 
 *→ Add your loss plot here:*
 
-![Epoch vs Loss](path/to/epoch_loss_plot.png)
+![Epoch vs Loss](Images/Trainin.png)
 
 ---
 
