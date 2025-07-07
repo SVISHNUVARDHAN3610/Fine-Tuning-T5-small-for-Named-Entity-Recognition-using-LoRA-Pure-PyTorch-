@@ -84,7 +84,7 @@ train_model()
 
 *→ Add your output prediction screenshot here:*
 
-![Sample Output](path/to/output_image.png)
+![Sample Output](Images/output.png)
 
 ---
 
