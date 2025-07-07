@@ -72,11 +72,11 @@ train_model()
 
 ---
 
-## 📉 Training Loss Curve
+## 📉 Training
 
 *→ Add your loss plot here:*
 
-![Epoch vs Loss](Images/Trainin.png)
+![Training 5 epochs](Images/Training.png)
 
 ---
 
