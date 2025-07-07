@@ -32,7 +32,7 @@ All other weights are **frozen**, making the training light-weight and efficient
 
 *→ Add your model architecture image below:*
 
-![T5-LoRA Architecture](path/to/your/model_architecture.png)
+![T5-LoRA Architecture](/Images/t5_small_architecture.png)
 
 ---
 
